@@ -285,9 +285,27 @@
     },
     "done": true
   },
+  "graveyard:graveyard/cyan_bone_staff": {
+    "criteria": {
+      "cyan_bone_staff": "2025-05-01 15:04:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/totem_of_undying": {
     "criteria": {
       "used_totem": "2025-05-01 14:49:44 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-05-01 14:58:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-05-01 15:01:30 +0000"
     },
     "done": true
   },
@@ -306,6 +324,12 @@
   "cataclysm:kill_leviathan": {
     "criteria": {
       "ignis": "2025-05-01 14:47:29 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/middle_bone_staff": {
+    "criteria": {
+      "middle_bone_staff": "2025-05-01 15:05:05 +0000"
     },
     "done": true
   },

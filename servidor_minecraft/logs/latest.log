@@ -310,3 +310,41 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [01May2025 14:54:29.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mateoXDn4zia: Set own game mode to Creative Mode]
 [01May2025 14:54:32.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mateoXDn4zia: Teleported mateoXDn4zia to -1519.500000, 77.000000, 32.500000]
 [01May2025 14:57:08.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mateoXDn4zia: Set own game mode to Survival Mode]
+[01May2025 14:58:00.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateoXDn4zia has completed the challenge [Rude Awakening]
+[01May2025 14:58:06.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mateoXDn4zia: Set own game mode to Creative Mode]
+[01May2025 14:58:40.279] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mateoXDn4zia moved too quickly! 3.0587211396616567,0.0,9.86433709797111
+[01May2025 15:01:30.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateoXDn4zia has made the advancement [Surge Protector]
+[01May2025 15:02:38.624] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10120, l='ServerLevel[world]', x=-1473.30, y=65.00, z=70.46] was struck by lightning LightningBolt['Lightning Bolt'/11111, l='ServerLevel[world]', x=-1473.50, y=65.00, z=68.50].
+[01May2025 15:02:38.626] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10121, l='ServerLevel[world]', x=-1473.42, y=72.00, z=69.03] was struck by lightning LightningBolt['Lightning Bolt'/11111, l='ServerLevel[world]', x=-1473.50, y=65.00, z=68.50].
+[01May2025 15:02:38.919] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10087, l='ServerLevel[world]', x=-1470.21, y=65.00, z=70.51] was struck by lightning LightningBolt['Lightning Bolt'/11112, l='ServerLevel[world]', x=-1473.50, y=65.00, z=68.50].
+[01May2025 15:03:02.950] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[01May2025 15:03:13.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mateoXDn4zia: Set own game mode to Spectator Mode]
+[01May2025 15:03:15.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mateoXDn4zia: Set own game mode to Survival Mode]
+[01May2025 15:03:16.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mateoXDn4zia: Set own game mode to Spectator Mode]
+[01May2025 15:03:16.992] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7168, l='ServerLevel[world]', x=-1455.88, y=72.00, z=58.60] was struck by lightning LightningBolt['Lightning Bolt'/12679, l='ServerLevel[world]', x=-1458.50, y=65.00, z=56.50].
+[01May2025 15:03:16.994] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10084, l='ServerLevel[world]', x=-1455.50, y=65.00, z=58.63] was struck by lightning LightningBolt['Lightning Bolt'/12679, l='ServerLevel[world]', x=-1458.50, y=65.00, z=56.50].
+[01May2025 15:03:25.477] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10083, l='ServerLevel[world]', x=-1456.82, y=65.00, z=50.49] died, message: 'Villager was blown up by -𝕍𝔼𝕊𝕊𝔼𝕃 𝕆𝔽 ℂ𝔸𝕃𝔸𝕄𝕀𝕋𝕐-'
+[01May2025 15:03:38.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mateoXDn4zia: Set own game mode to Creative Mode]
+[01May2025 15:03:44.810] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10091, l='ServerLevel[world]', x=-1457.50, y=65.00, z=67.47] died, message: 'Villager was blown up by -𝕍𝔼𝕊𝕊𝔼𝕃 𝕆𝔽 ℂ𝔸𝕃𝔸𝕄𝕀𝕋𝕐-'
+[01May2025 15:03:45.821] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10090, l='ServerLevel[world]', x=-1455.60, y=65.00, z=71.55] died, message: 'Villager was blown up by -𝕍𝔼𝕊𝕊𝔼𝕃 𝕆𝔽 ℂ𝔸𝕃𝔸𝕄𝕀𝕋𝕐-'
+[01May2025 15:03:45.826] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10095, l='ServerLevel[world]', x=-1455.48, y=65.00, z=70.44] died, message: 'Villager was blown up by -𝕍𝔼𝕊𝕊𝔼𝕃 𝕆𝔽 ℂ𝔸𝕃𝔸𝕄𝕀𝕋𝕐-'
+[01May2025 15:03:45.871] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10085, l='ServerLevel[world]', x=-1454.53, y=72.00, z=70.62] was struck by lightning LightningBolt['Lightning Bolt'/13357, l='ServerLevel[world]', x=-1455.50, y=65.00, z=71.50].
+[01May2025 15:03:51.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mateoXDn4zia: Set own game mode to Spectator Mode]
+[01May2025 15:03:55.404] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/70, l='ServerLevel[world]', x=48.15, y=64.00, z=336.08] died, message: 'Toolsmith was killed'
+[01May2025 15:03:55.407] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/71, l='ServerLevel[world]', x=38.96, y=63.00, z=336.04] died, message: 'Villager was killed'
+[01May2025 15:03:55.411] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/80, l='ServerLevel[world]', x=26.30, y=67.75, z=359.29] died, message: 'Villager was killed'
+[01May2025 15:03:55.414] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/90, l='ServerLevel[world]', x=73.61, y=71.00, z=363.38] died, message: 'Toolsmith was killed'
+[01May2025 15:03:55.415] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/91, l='ServerLevel[world]', x=66.84, y=72.00, z=365.50] died, message: 'Farmer was killed'
+[01May2025 15:03:55.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateoXDn4zia was killed
+[01May2025 15:03:55.435] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10188, l='ServerLevel[world]', x=-1505.47, y=65.00, z=1.97] died, message: 'Villager was killed'
+[01May2025 15:03:55.438] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10189, l='ServerLevel[world]', x=-1507.39, y=65.00, z=9.05] died, message: 'Villager was killed'
+[01May2025 15:03:55.440] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10193, l='ServerLevel[world]', x=-1515.50, y=65.00, z=56.63] died, message: 'Villager was killed'
+[01May2025 15:03:55.441] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10202, l='ServerLevel[world]', x=-1525.48, y=65.00, z=69.15] died, message: 'Villager was killed'
+[01May2025 15:03:55.446] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10227, l='ServerLevel[world]', x=-1537.65, y=65.00, z=69.19] died, message: 'Villager was killed'
+[01May2025 15:03:55.448] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10228, l='ServerLevel[world]', x=-1538.39, y=65.00, z=69.09] died, message: 'Villager was killed'
+[01May2025 15:03:55.450] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10229, l='ServerLevel[world]', x=-1539.79, y=65.00, z=69.21] died, message: 'Villager was killed'
+[01May2025 15:03:55.467] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/10873, l='ServerLevel[world]', x=-1286.73, y=68.00, z=144.54] died, message: 'Weaponsmith was killed'
+[01May2025 15:03:55.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mateoXDn4zia: Killed 463 entities]
+[01May2025 15:03:59.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mateoXDn4zia: Set own game mode to Creative Mode]
+[01May2025 15:04:53.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateoXDn4zia has made the advancement [Staff of Mynakta'gul]
+[01May2025 15:05:05.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateoXDn4zia has made the advancement [Broken Parts II]
