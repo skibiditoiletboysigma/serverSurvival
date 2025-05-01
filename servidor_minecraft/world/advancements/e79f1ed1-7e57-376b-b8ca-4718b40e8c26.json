@@ -96,6 +96,10 @@
   },
   "the_bumblezone:biomes/discover_all_biomes": {
     "criteria": {
+      "crystal_canyon": "2025-05-01 16:20:21 +0000",
+      "sugar_water_floor": "2025-05-01 16:14:51 +0000",
+      "hive_pillar": "2025-05-01 16:15:44 +0000",
+      "hive_wall": "2025-05-01 16:15:18 +0000",
       "bumbling_beepartments": "2025-05-01 14:05:53 +0000"
     },
     "done": false
@@ -364,6 +368,26 @@
       "has_ender_eye": "2025-05-01 16:12:52 +0000"
     },
     "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-05-01 16:14:39 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
+    "criteria": {
+      "teleport_to_bumblezone_pearl": "2025-05-01 16:14:43 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_all_structures": {
+    "criteria": {
+      "in_hive_temple": "2025-05-01 16:15:19 +0000",
+      "in_honey_cave_room": "2025-05-01 16:16:35 +0000",
+      "in_gazebuzz_cluster": "2025-05-01 16:17:54 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

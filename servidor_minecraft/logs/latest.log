@@ -296,3 +296,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [01May2025 16:15:16.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mateoXDn4zia: Set own game mode to Spectator Mode]
 [01May2025 16:16:14.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mateoXDn4zia: The difficulty has been set to Hard]
 [01May2025 16:16:48.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mateoXDn4zia moved too quickly! -1.7828172453834839,-3.738731293803596,-10.128666068875646
+[01May2025 16:18:03.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mateoXDn4zia: Set own game mode to Survival Mode]
+[01May2025 16:18:05.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mateoXDn4zia: Set own game mode to Adventure Mode]
+[01May2025 16:18:06.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mateoXDn4zia moved too quickly! 0.0,-12.262358999312099,0.0
+[01May2025 16:18:07.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mateoXDn4zia was kicked for floating too long!
+[01May2025 16:18:07.712] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mateoXDn4zia lost connection: Flying is not enabled on this server
+[01May2025 16:18:07.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateoXDn4zia left the game
+[01May2025 16:19:01.829] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mateoXDn4zia[/127.215.214.81:60713] logged in with entity id 4633 at (177.6285453776562, 87.82045192219172, -558.5616358472614)
+[01May2025 16:19:01.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateoXDn4zia joined the game
+[01May2025 16:19:14.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mateoXDn4zia: Set own game mode to Creative Mode]
+[01May2025 16:20:39.670] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mateoXDn4zia lost connection: Disconnected
+[01May2025 16:20:39.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mateoXDn4zia left the game
